@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#FFF5E6" />
+      <stop offset="100%" stop-color="#F3E1C1" />
+    </linearGradient>
+    <linearGradient id="shadow" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#C7B299" stop-opacity="0.0"/>
+      <stop offset="100%" stop-color="#C7B299" stop-opacity="0.4"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 56px 'DejaVu Sans', system-ui, -apple-system, Segoe UI, Roboto; fill: #5A341E; }
+      .sub { font: 500 26px 'DejaVu Sans', system-ui, -apple-system, Segoe UI, Roboto; fill: #7A4E2D; }
+      .pill { font: 600 20px 'DejaVu Sans', system-ui, -apple-system, Segoe UI, Roboto; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)" rx="24" />
+  <!-- soft wave -->
+  <path d="M0,260 C220,300 380,220 640,260 C900,300 1060,220 1280,260 L1280,320 L0,320 Z" fill="#D6A676" opacity="0.20"/>
+  <g transform="translate(64,88)">
+    <text class="title">Minjae Baek · Embedded & Robotics</text>
+    <text class="sub" y="62">ROS 2 • SLAM • Sensor Fusion • Control Systems</text>
+    <!-- pills -->
+    <g transform="translate(0,110)">
+      <rect x="0" y="0" rx="18" ry="18" width="180" height="40" fill="#7A4E2D" />
+      <text x="20" y="26" class="pill" fill="#FFF5E6">C/C++ · Python</text>
+      <rect x="200" y="0" rx="18" ry="18" width="180" height="40" fill="#7A4E2D" />
+      <text x="220" y="26" class="pill" fill="#FFF5E6">ROS 2 · Ubuntu</text>
+      <rect x="400" y="0" rx="18" ry="18" width="220" height="40" fill="#7A4E2D" />
+      <text x="420" y="26" class="pill" fill="#FFF5E6">Jetson · Raspberry Pi</text>
+    </g>
+  </g>
+  <!-- corner toast circle -->
+  <g transform="translate(1030,40)">
+    <circle cx="110" cy="110" r="110" fill="#D6A676" opacity="0.25"/>
+    <circle cx="110" cy="110" r="100" fill="none" stroke="#7A4E2D" stroke-width="3" opacity="0.25"/>
+  </g>
+</svg>
