@@ -1,16 +1,80 @@
-## Hi there 👋
+<!-- Warm Toast Theme -->
+<h1 align="center">Minjae Baek (백민재) 🧑🏻‍🔧</h1>
+<p align="center">Embedded · Robotics · ROS 2 · SLAM · Control Systems</p>
 
-<!--
-**bmj426/bmj426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/gh_banner_toast.svg" alt="banner"/>
+</p>
 
-Here are some ideas to get you started:
+### 👋 About
+- 🤖 Robotics & Embedded SW (C/C++/Python, ROS 2, Mecanum, LiDAR/IMU)
+- 🎯 관심사: real-time control, perception, sensor fusion
+- 🌏 Asia/Seoul
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech
+<img src="https://img.shields.io/badge/C-5A341E?logo=c&logoColor=FFF5E6&labelColor=7A4E2D"/>
+<img src="https://img.shields.io/badge/C++-5A341E?logo=cplusplus&logoColor=FFF5E6&labelColor=7A4E2D"/>
+<img src="https://img.shields.io/badge/Python-5A341E?logo=python&logoColor=FFF5E6&labelColor=7A4E2D"/>
+<img src="https://img.shields.io/badge/ROS%202-5A341E?logo=ros&logoColor=FFF5E6&labelColor=7A4E2D"/>
+<img src="https://img.shields.io/badge/Ubuntu-5A341E?logo=ubuntu&logoColor=FFF5E6&labelColor=7A4E2D"/>
+<img src="https://img.shields.io/badge/Jetson-5A341E?logo=nvidia&logoColor=FFF5E6&labelColor=7A4E2D"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-5A341E?logo=raspberrypi&logoColor=FFF5E6&labelColor=7A4E2D"/>
+
+### 🔥 Stats (토스트 톤 커스텀)
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&rank_icon=github&title_color=5A341E&text_color=5A341E&icon_color=7A4E2D&bg_color=FFF5E6&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&title_color=5A341E&text_color=5A341E&bg_color=FFF5E6&hide_border=true"/>
+</p>
+<p>
+  <img height="150" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&background=FFF5E6&ring=7A4E2D&fire=D6A676&currStreakNum=5A341E&sideNums=5A341E&currStreakLabel=7A4E2D&sideLabels=5A341E&dates=7A4E2D&hide_border=true"/>
+</p>
+
+### 🧩 Featured
+- **Smart Elevator (Face + Object Detection)** — ROS 2, YOLO, TWI 멀티 LCD  
+  → Repo / Demo
+- **Mecanum Robot Navigation** — RF2O odom, IMU fusion, 외부 PID yaw  
+  → Repo / Demo
+
+### 📫 Contact
+- Email: your@email.com
+- Blog/Portfolio: https://your-site.link
+<!-- Warm Toast Theme -->
+<h1 align="center">Minjae Baek (백민재) 🧑🏻‍🔧</h1>
+<p align="center">Embedded · Robotics · ROS 2 · SLAM · Control Systems</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/gh_banner_toast.svg" alt="banner"/>
+</p>
+
+### 👋 About
+- 🤖 Robotics & Embedded SW (C/C++/Python, ROS 2, Mecanum, LiDAR/IMU)
+- 🎯 관심사: real-time control, perception, sensor fusion
+- 🌏 Asia/Seoul
+
+### 🧰 Tech
+<img src="https://img.shields.io/badge/C-5A341E?logo=c&logoColor=FFF5E6&labelColor=7A4E2D"/>
+<img src="https://img.shields.io/badge/C++-5A341E?logo=cplusplus&logoColor=FFF5E6&labelColor=7A4E2D"/>
+<img src="https://img.shields.io/badge/Python-5A341E?logo=python&logoColor=FFF5E6&labelColor=7A4E2D"/>
+<img src="https://img.shields.io/badge/ROS%202-5A341E?logo=ros&logoColor=FFF5E6&labelColor=7A4E2D"/>
+<img src="https://img.shields.io/badge/Ubuntu-5A341E?logo=ubuntu&logoColor=FFF5E6&labelColor=7A4E2D"/>
+<img src="https://img.shields.io/badge/Jetson-5A341E?logo=nvidia&logoColor=FFF5E6&labelColor=7A4E2D"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-5A341E?logo=raspberrypi&logoColor=FFF5E6&labelColor=7A4E2D"/>
+
+### 🔥 Stats (토스트 톤 커스텀)
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&rank_icon=github&title_color=5A341E&text_color=5A341E&icon_color=7A4E2D&bg_color=FFF5E6&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&title_color=5A341E&text_color=5A341E&bg_color=FFF5E6&hide_border=true"/>
+</p>
+<p>
+  <img height="150" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&background=FFF5E6&ring=7A4E2D&fire=D6A676&currStreakNum=5A341E&sideNums=5A341E&currStreakLabel=7A4E2D&sideLabels=5A341E&dates=7A4E2D&hide_border=true"/>
+</p>
+
+### 🧩 Featured
+- **Smart Elevator (Face + Object Detection)** — ROS 2, YOLO, TWI 멀티 LCD  
+  → Repo / Demo
+- **Mecanum Robot Navigation** — RF2O odom, IMU fusion, 외부 PID yaw  
+  → Repo / Demo
+
+### 📫 Contact
+- Email: your@email.com
+- Blog/Portfolio: https://your-site.link
