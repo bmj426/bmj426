@@ -18,7 +18,7 @@
   <!-- soft wave -->
   <path d="M0,260 C220,300 380,220 640,260 C900,300 1060,220 1280,260 L1280,320 L0,320 Z" fill="#D6A676" opacity="0.20"/>
   <g transform="translate(64,88)">
-    <text class="title">Minjae Baek · Embedded & Robotics</text>
+    <text class="title">Minjae Baek · Embedded &amp; Robotics</text>
     <text class="sub" y="62">ROS 2 • SLAM • Sensor Fusion • Control Systems</text>
     <!-- pills -->
     <g transform="translate(0,110)">
