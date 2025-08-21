@@ -3,7 +3,7 @@
 <p align="center">Embedded · Robotics · ROS 2 · SLAM · Control Systems</p>
 
 <p align="center">
-  <img src="./assets/gh_banner_toast.svg" alt="banner"/>
+  <img src="https://github.com/bmj426/bmj426/tree/main/assets/gh_banner_toast.svg" alt="banner"/>
 </p>
 
 ### 👋 About
@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/C-5A341E?logo=c&logoColor=FFF5E6&labelColor=7A4E2D"/> <img src="https://img.shields.io/badge/C++-5A341E?logo=cplusplus&logoColor=FFF5E6&labelColor=7A4E2D"/> <img src="https://img.shields.io/badge/Python-5A341E?logo=python&logoColor=FFF5E6&labelColor=7A4E2D"/> <img src="https://img.shields.io/badge/ROS%202-5A341E?logo=ros&logoColor=FFF5E6&labelColor=7A4E2D"/>
 <img src="https://img.shields.io/badge/Ubuntu-5A341E?logo=ubuntu&logoColor=FFF5E6&labelColor=7A4E2D"/> <img src="https://img.shields.io/badge/Jetson-5A341E?logo=nvidia&logoColor=FFF5E6&labelColor=7A4E2D"/> <img src="https://img.shields.io/badge/Raspberry%20Pi-5A341E?logo=raspberrypi&logoColor=FFF5E6&labelColor=7A4E2D"/>
 
-### 🔥 Stats (토스트 톤 커스텀)
+### 🔥 Stats
 <p>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=bmj426&show_icons=true&rank_icon=github&title_color=5A341E&text_color=5A341E&icon_color=7A4E2D&bg_color=FFF5E6&hide_border=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmj426&layout=compact&title_color=5A341E&text_color=5A341E&bg_color=FFF5E6&hide_border=true"/>
