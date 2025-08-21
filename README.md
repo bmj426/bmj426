@@ -3,7 +3,7 @@
 <p align="center">Embedded · Robotics · ROS 2 · SLAM · Control Systems</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/gh_banner_toast.svg" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/bmj426/bmj426/main/assets/gh_banner_toast.svg" alt="banner"/>
 </p>
 
 ### 👋 About
