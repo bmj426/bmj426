@@ -12,13 +12,8 @@
 - 🌏 Asia/Seoul
 
 ### 🧰 Tech
-<img src="https://img.shields.io/badge/C-5A341E?logo=c&logoColor=FFF5E6&labelColor=7A4E2D"/>
-<img src="https://img.shields.io/badge/C++-5A341E?logo=cplusplus&logoColor=FFF5E6&labelColor=7A4E2D"/>
-<img src="https://img.shields.io/badge/Python-5A341E?logo=python&logoColor=FFF5E6&labelColor=7A4E2D"/>
-<img src="https://img.shields.io/badge/ROS%202-5A341E?logo=ros&logoColor=FFF5E6&labelColor=7A4E2D"/>
-<img src="https://img.shields.io/badge/Ubuntu-5A341E?logo=ubuntu&logoColor=FFF5E6&labelColor=7A4E2D"/>
-<img src="https://img.shields.io/badge/Jetson-5A341E?logo=nvidia&logoColor=FFF5E6&labelColor=7A4E2D"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-5A341E?logo=raspberrypi&logoColor=FFF5E6&labelColor=7A4E2D"/>
+<img src="https://img.shields.io/badge/C-5A341E?logo=c&logoColor=FFF5E6&labelColor=7A4E2D"/> <img src="https://img.shields.io/badge/C++-5A341E?logo=cplusplus&logoColor=FFF5E6&labelColor=7A4E2D"/> <img src="https://img.shields.io/badge/Python-5A341E?logo=python&logoColor=FFF5E6&labelColor=7A4E2D"/> <img src="https://img.shields.io/badge/ROS%202-5A341E?logo=ros&logoColor=FFF5E6&labelColor=7A4E2D"/>
+<img src="https://img.shields.io/badge/Ubuntu-5A341E?logo=ubuntu&logoColor=FFF5E6&labelColor=7A4E2D"/> <img src="https://img.shields.io/badge/Jetson-5A341E?logo=nvidia&logoColor=FFF5E6&labelColor=7A4E2D"/> <img src="https://img.shields.io/badge/Raspberry%20Pi-5A341E?logo=raspberrypi&logoColor=FFF5E6&labelColor=7A4E2D"/>
 
 ### 🔥 Stats (토스트 톤 커스텀)
 <p>
