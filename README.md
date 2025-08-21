@@ -1,10 +1,6 @@
 <!-- Warm Toast Theme -->
-<h1 align="center">Minjae Baek (백민재) 🧑🏻‍🔧</h1>
+<h1 align="center">TEST 🧑🏻‍🔧</h1>
 <p align="center">Embedded · Robotics · ROS 2 · SLAM · Control Systems</p>
-
-<p align="center">
-  <img src="https://github.com/bmj426/bmj426/tree/main/assets/gh_banner_toast.png" alt="banner"/>
-</p>
 
 ### 👋 About
 - 🤖 Robotics & Embedded SW (C/C++/Python, ROS 2, Mecanum, LiDAR/IMU)
