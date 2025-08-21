@@ -2,6 +2,8 @@
 <h1 align="center">TEST</h1>
 <p align="center">Embedded · Robotics · ROS 2 · SLAM · Control Systems</p>
 
+![snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg)
+
 ### 👋 About
 - 🤖 Robotics & Embedded SW (C/C++/Python, ROS 2, Mecanum, LiDAR/IMU)
 - 🎯 관심사: real-time control, perception, sensor fusion
