@@ -1,5 +1,4 @@
 <!-- Warm Toast Theme -->
-<h1 align="center">Minjae Baek (백민재) 🧑🏻‍🔧</h1>
 <p align="center">Embedded · Robotics · ROS 2 · SLAM · Control Systems</p>
 
 <p align="center">
