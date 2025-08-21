@@ -2,7 +2,7 @@
 <h1 align="center">Happy bread</h1>
 <p align="center">Embedded · Robotics · ROS 2 · SLAM · Control Systems</p>
 
-![snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg)
+![snake](https://raw.githubusercontent.com/bmj426/bmj426/output/snake.svg)
 
 ### 👋 About
 - 🤖 Robotics & Embedded SW (C/C++/Python, ROS 2, Mecanum, LiDAR/IMU)
