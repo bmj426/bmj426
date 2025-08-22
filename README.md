@@ -9,7 +9,6 @@
       <h3>Embedded · Robotics · ROS 2 · SLAM · Control Systems</h3>
     </td>
     
-    <!-- 오른쪽: 백준 랭크 -->
     <td valign="middle">
       <a href="https://solved.ac/bmj426">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bmj426" height="120"/>
