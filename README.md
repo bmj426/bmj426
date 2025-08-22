@@ -1,22 +1,18 @@
 <!-- Warm Toast Theme -->
-<div align="center">
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-<table width="100%">
-  <tr>
-    <!-- 왼쪽: 이름 + 스택 -->
-    <td align="left" valign="middle">
-      <h1 style="margin:0">Baek Min Jae</h1>
-      <h3 style="margin:6px 0 0 0;">Embedded · Robotics · ROS 2 · SLAM · Control Systems</h3>
-    </td>
+  <!-- 왼쪽: 이름 + 스택 -->
+  <div style="flex: 1;">
+    <h1 style="margin:0">Baek Min Jae</h1>
+    <h3 style="margin:6px 0 0 0;">Embedded · Robotics · ROS 2 · SLAM · Control Systems</h3>
+  </div>
 
-    <!-- 오른쪽: 백준 랭크 -->
-  <td align="right" valign="middle" width="260">
-      <a href="https://solved.ac/bmj426">
-        <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=bmj426" height="110" alt="boj rank"/>
-      </a>
-    </td>
-  </tr>
-</table>
+  <!-- 오른쪽: 백준 랭크 -->
+  <div>
+    <a href="https://solved.ac/bmj426">
+      <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=bmj426" height="110" alt="boj rank"/>
+    </a>
+  </div>
 
 </div>
 
