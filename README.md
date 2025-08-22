@@ -27,4 +27,4 @@
   → Repo / Demo
 
 ### 📫 Contact
-- Email: bmj426@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:bmj426@gmail.com)
