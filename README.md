@@ -1,10 +1,24 @@
 <!-- Warm Toast Theme -->
-<h1 align="center">Baek Min Jae</h1>
-<p align="center">Embedded · Robotics · ROS 2 · SLAM · Control Systems</p>
+<div align="center">
 
-<a href="https://solved.ac/bmj426">
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bmj426">
-</a>
+<table>
+  <tr>
+    <!-- 왼쪽: 이름/스택 -->
+    <td valign="top">
+      <h1>Baek Min Jae</h1>
+      <h3>Embedded · Robotics · ROS 2 · SLAM · Control Systems</h3>
+    </td>
+    
+    <!-- 오른쪽: 백준 랭크 -->
+    <td valign="middle">
+      <a href="https://solved.ac/bmj426">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bmj426" height="120"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ![snake](https://raw.githubusercontent.com/bmj426/bmj426/output/snake.svg)
 
