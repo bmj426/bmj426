@@ -1,23 +1,27 @@
 <!-- Warm Toast Theme -->
 <!-- Hero -->
-<div align="center" style="position: relative;">
+<div align="left" style="position: relative;">
+  
+  
   <h1 style="margin:0">Baek Min Jae</h1>
+
+  <a href="https://solved.ac/bmj426">
+    <img align='right' src="https://mazassumnida.wtf/api/v2/generate_badge?boj=bmj426" height="200" alt="BOJ rank">
+  </a>
   <p style="font-size:20px; margin:6px 0 0 0;">
     Embedded · Robotics · ROS 2 · SLAM · Control Systems
   </p>
-  <!-- 오른쪽 상단 배지 -->
-  <a href="https://solved.ac/bmj426" style="position:absolute; right:0; top:0;">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=bmj426" height="105" alt="BOJ rank">
-  </a>
+  
 </div>
 
 
-![snake](https://raw.githubusercontent.com/bmj426/bmj426/output/snake.svg)
 
 ### 👋 About
 - 🤖 Robotics & Embedded SW (C/C++/Python, ROS 2, Mecanum, LiDAR/IMU)
 - 🎯 관심사: real-time control, perception, sensor fusion
 - 🌏 Asia/Seoul
+
+![snake](https://raw.githubusercontent.com/bmj426/bmj426/output/snake.svg)
 
 ### 🧰 Tech
 <img src="https://img.shields.io/badge/C-5A341E?logo=c&logoColor=FFF5E6&labelColor=7A4E2D"/> <img src="https://img.shields.io/badge/C++-5A341E?logo=cplusplus&logoColor=FFF5E6&labelColor=7A4E2D"/> <img src="https://img.shields.io/badge/Python-5A341E?logo=python&logoColor=FFF5E6&labelColor=7A4E2D"/> <img src="https://img.shields.io/badge/ROS%202-5A341E?logo=ros&logoColor=FFF5E6&labelColor=7A4E2D"/>
@@ -33,7 +37,7 @@
 </p>
 
 ### 🧩 Featured
-- **Mecanum Robot Navigation** — RF2O odom, IMU fusion, 외부 PID yaw  
+- **Mecanum Robot Navigation** — RF2O odom, IMU fusion, PID control  
   → Repo / Demo
 
 ### 📫 Contact
