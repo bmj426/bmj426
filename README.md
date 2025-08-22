@@ -2,6 +2,10 @@
 <h1 align="center">Baek Min Jae</h1>
 <p align="center">Embedded · Robotics · ROS 2 · SLAM · Control Systems</p>
 
+<a href="https://solved.ac/bmj426">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bmj426">
+</a>
+
 ![snake](https://raw.githubusercontent.com/bmj426/bmj426/output/snake.svg)
 
 ### 👋 About
