@@ -9,7 +9,7 @@
     <img align='right' src="https://mazassumnida.wtf/api/v2/generate_badge?boj=bmj426" height="200" alt="BOJ rank">
   </a>
   <p style="font-size:20px; margin:6px 0 0 0;">
-    Embedded · Robotics · ROS 2 · SLAM · Control Systems
+    Embedded · Satellite · C · Rust
   </p>
   
 </div>
@@ -17,7 +17,7 @@
 
 
 ### 👋 About
-- 🤖 Robotics & Embedded SW (C/C++/Python, ROS 2, Mecanum, LiDAR/IMU)
+- 🛰️ Satellite & Embedded SW (C/C++/Python, RTOS)
 - 🎯 관심사: real-time control, perception, sensor fusion
 - 🌏 Asia/Seoul
 
